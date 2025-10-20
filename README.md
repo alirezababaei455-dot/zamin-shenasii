@@ -105,3 +105,31 @@ footer {
     background-color: #333;
     color: white;
 }
+<section id="about">
+    <h2>درباره من</h2>
+    <p>اینجا می‌توانید درباره خودتان بنویسید.</p>
+</section>
+
+<section id="gallery">
+    <h2>گالری تصاویر</h2>
+    <div class="images">
+        <img src="images/sample1.jpg" alt="نمونه 1">
+        <img src="images/sample2.jpg" alt="نمونه 2">
+    </div>
+</section>
+
+<section id="files">
+    <h2>فایل‌ها</h2>
+    <ul>
+        <li><a href="files/sample.pdf" target="_blank">دانلود PDF نمونه</a></li>
+    </ul>
+</section>
+
+<section id="contact">
+    <h2>تماس با من</h2>
+    <p>ایمیل: example@example.com</p>
+</section>
+
+<footer>
+    <p>© 2025 تمام حقوق محفوظ است</p>
+</footer>
